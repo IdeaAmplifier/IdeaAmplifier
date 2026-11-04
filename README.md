@@ -2,12 +2,6 @@
   <img src="assets/hero.png" alt="ideaAmplifier — 現場工程師，寫給現場工程師的工具">
 </p>
 
-# YO（游翔竹）
-
-**20 年現場擴聲工程師（FOH）｜台北・北京**
-
-我做的是演出前、演出中真的用得上的工具——不是 demo，是彩排十分鐘內能裝好、演出中不會出錯的那種。
-
 [![Email](https://img.shields.io/badge/Email-agaetiss%40gmail.com-24BAE0?style=flat-square&logo=gmail&logoColor=white)](mailto:agaetiss@gmail.com)
 [![macOS](https://img.shields.io/badge/macOS-13%2B-lightgrey?style=flat-square&logo=apple&logoColor=white)](#)
 [![Free](https://img.shields.io/badge/all_tools-free-brightgreen?style=flat-square)](#)
