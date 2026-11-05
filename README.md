@@ -8,7 +8,7 @@
 
 I build the tools I wish existed on stage — the kind you can set up in ten minutes of soundcheck and trust for the whole show. MA Audio Production (University of Westminster). Britannia Row Productions trained. Coralworks member.
 
-[![Email](https://img.shields.io/badge/Email-agaetiss%40gmail.com-24BAE0?style=flat-square&logo=gmail&logoColor=white)](mailto:agaetiss@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ideaamp.support%40icloud.com-24BAE0?style=flat-square&logo=icloud&logoColor=white)](mailto:ideaamp.support@icloud.com)
 [![macOS](https://img.shields.io/badge/macOS-13%2B-lightgrey?style=flat-square&logo=apple&logoColor=white)](#)
 [![Free](https://img.shields.io/badge/all_tools-free-brightgreen?style=flat-square)](#)
 
@@ -91,7 +91,7 @@ Align phase and time across multiple mics on the same source (focus: kick in + k
 
 Turn a show's LTC timecode, markers, and setlist into one working file. At show time, it drives the console (MIDI CC/PC) and plugin hosts (OSC).
 
-`macOS` · `v1.2.0` · **Coming soon**
+`macOS` · `v1.2.0` · **In development**
 
 </td>
 <td width="48%">
