@@ -91,7 +91,7 @@ Align phase and time across multiple mics on the same source (focus: kick in + k
 
 Turn a show's LTC timecode, markers, and setlist into one working file. At show time, it drives the console (MIDI CC/PC) and plugin hosts (OSC).
 
-`macOS` · `v1.2.0` · **Private tool**
+`macOS` · `v1.2.0` · **Coming soon**
 
 </td>
 <td width="48%">
