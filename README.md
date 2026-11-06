@@ -2,11 +2,11 @@
   <img src="assets/hero.png" alt="ideaAmplifier — tools for the stage">
 </p>
 
-# YO（游翔竹）
+# YO Hsiangchu
 
 **FOH engineer, 20+ years · Taipei / Beijing**
 
-I build the tools I wish existed on stage — the kind you can set up in ten minutes of soundcheck and trust for the whole show. MA Audio Production (University of Westminster). Britannia Row Productions trained. Coralworks member.
+Be an idea amplifier.
 
 [![Email](https://img.shields.io/badge/Email-ideaamp.support%40icloud.com-24BAE0?style=flat-square&logo=icloud&logoColor=white)](mailto:ideaamp.support@icloud.com)
 [![macOS](https://img.shields.io/badge/macOS-13%2B-lightgrey?style=flat-square&logo=apple&logoColor=white)](#)
